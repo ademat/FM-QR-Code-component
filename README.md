@@ -11,12 +11,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![](images/Screenshot.png)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/ademat/FM-QR-Code-component)
-- Live Site URL: [Add live site URL here](https://ademat.github.io/FM-QR-Code-component/)
+- Solution URL: [Github](https://github.com/ademat/FM-QR-Code-component)
+- Live Site URL: [Github pages](https://ademat.github.io/FM-QR-Code-component/)
 
 ## Built with
 
@@ -26,4 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ademat)
+- Frontend Mentor - [@ademat](https://www.frontendmentor.io/profile/ademat)
